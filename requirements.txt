@@ -1,2 +1,4 @@
 # Add your project dependencies here
+ipykernel
+notebook
 openai
